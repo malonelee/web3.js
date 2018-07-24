@@ -30,7 +30,7 @@ You need to run a local Ethereum node to use this library.
 ### Node.js
 
 ```bash
-npm install web3
+npm install web4
 ```
 
 ### Yarn
@@ -56,7 +56,7 @@ CDN
 Bower
 
 ```bash
-bower install web3
+bower install web4
 ```
 
 Component
